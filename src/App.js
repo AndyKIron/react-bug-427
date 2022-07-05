@@ -84,7 +84,7 @@ const rows = [
     website: 'ambrose.net',
     checkbox: false,
   },
-],
+];
 
 export function App() {
   const [state, setTableState] = useState(STATE_OBJECT);
