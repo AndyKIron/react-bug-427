@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "@ironsource/fusion-ui": "2.0.4-rc.2",
     "react": "^17.0.0",
-    "@ironsource/fusion-ui": "2.0.4-beta.11",
     "react-dom": "^17.0.0"
   },
   "scripts": {
